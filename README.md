@@ -4,14 +4,13 @@
 + Tenho uma Startup 
 + Tenho me aprofundado cada dia mais em PHP :elephant:	
 
-## Minhas habilidades :floppy_disk:
+## Em constante evolução :floppy_disk:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg" height="50" width="50" ></img>
-
-## Em constante evolução :dvd:
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg" height="50" width="50" ></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" height="50" width="50" ></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" height="50" width="50" ></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" height="50" width="50" ></img>
 
 ## Aprendendo :footprints:
 
