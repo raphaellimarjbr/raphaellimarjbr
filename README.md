@@ -4,6 +4,8 @@
 + Tenho uma Startup 🥇
 + Tenho me aprofundado cada dia mais em PHP :elephant:	
 
+<img align="right" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611542651addc41a805bfdeaed45a033215cd92c10f&rid=giphy.gif&ct=g" height="200" width="300"></img>
+
 ## Em constante evolução
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg" height="30" width="30" ></img>
