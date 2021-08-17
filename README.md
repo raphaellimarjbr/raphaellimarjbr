@@ -18,5 +18,6 @@
 ## Aprendendo
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" height="30" width="30" ></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg" height="30" width="30" ></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellimarjbr&show_icons=true&theme=radical)
